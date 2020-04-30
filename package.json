@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jairht19/efx_development_web#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
